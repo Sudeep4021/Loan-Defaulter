@@ -1,0 +1,13 @@
+**Summary**
+
+So After changing threshold values we came to an end. And
+0.7 or 70 percent is good enough to predict.
+
+**Good Loans**
+1. Anything above 70 percent probability - Approve
+
+**Bad Loans**
+2. Anything below 60 percent probability - Reject
+
+**Manual Check**
+3. The remaining 60 - 70  percent we should manually check.
